@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QiwiTest</string>
+
+    <string name="action_sort">Сортировка</string>
+
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_action_cancel">Cancel</string>
+    <string name="dialog_error_title">Sorry</string>
+
+    <string name="empty_vizits">Нет визитов</string>
+    <string name="error_loading_vizits">Возникла проблема при загрузке визитов</string>
+    <string name="retry">Повторить</string>
+    <string name="error">Ошибка</string>
+    <string name="choose_user">Выберите пользователя из списка.</string>
+</resources>
